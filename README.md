@@ -22,4 +22,3 @@ Get the result of a Expression with +,-,*,/,%,&amp;,|,&lt;&lt;,>>,(,)
 *
 */
  
- 这次试试恢复
