@@ -49,9 +49,10 @@ const int PLUS		= 5;
 const int MINUS		= 6;
 const int MULTIPLY	= 7;
 const int DEVIDE	= 8;
-const int LKH		= 9;
-const int RKH		= 10;
-const int MODULUS		= 11;
+const int MODULUS	= 9;
+const int LKH		= 10;
+const int RKH		= 11;
+
 class CExpression
 {
 public:

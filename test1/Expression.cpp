@@ -36,7 +36,7 @@ CExpression::~CExpression(void)
 void CExpression::AddFh(int nFh)
 {
 	int t;
-	if (m_last==0 || m_last==6)
+	if (m_last==0 || m_last==RKH)
 	{
 		if (nFh == PLUS)
 		{
