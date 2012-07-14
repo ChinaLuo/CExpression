@@ -21,4 +21,6 @@ Get the result of a Expression with +,-,*,/,%,&amp;,|,&lt;&lt;,>>,(,)
 * V1.0		2012-05-09	罗树鹏		创建并完成功能
 *
 */
- 
+ /*****************
+ * 此项目转给ChinaLuo组织
+ */
